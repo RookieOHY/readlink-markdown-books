@@ -1,0 +1,33 @@
+{
+  "kind": "Book",
+  "title": "深入RUST标准库",
+  "version": "0.0.1",
+  "authors": ["Warrenren"],
+  "src": "src",
+  "contents": [
+    "引言.md",
+    "01-RUST库体系概述.md",
+    "02-内存.md",
+    "03-固有函数库及基础类型.md",
+    "04-基础Trait.md",
+    "05-Iterator.md",
+    "06-基本类型续.md",
+    "07-内部可变性类型.md",
+    "08-智能指针类型(一).md",
+    "09-智能指针类型(二).md",
+    "10-智能指针类型(三).md",
+    "11-智能指针类型(四).md",
+    "12-std库(一) FFI及内存管理.md",
+    "13-std库(二)-文件描述符及进程管理.md",
+    "14-std库(三)线程间锁通信.md",
+    "15-std库(四)线程临界区类型.md",
+    "16-std库(五)线程管理.md",
+    "17-std库(六) mpsc通信.md",
+    "18-std库(七) RUST的RUNTIME.md",
+    "19-std库(八)RUST文件系统.md",
+    "20-std库(九)RUST的IO.md",
+    "21-RUST的异步编程.md",
+    "后记.md",
+    "README.md"
+]
+}
